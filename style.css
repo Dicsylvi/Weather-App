@@ -1,0 +1,61 @@
+body {
+  font-family: "EB Garamond", serif;
+  margin: 0;
+}
+
+h2 {
+  position: relative;
+  top: 10px;
+  font-size: 25px;
+}
+
+.container {
+  border-radius: 25px;
+  display: block;
+  padding: 25px 100px;
+  margin: 0 auto;
+  line-height: 48px;
+  font-size: 30px;
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+i {
+  position: relative;
+  left: -60px;
+  bottom: -65px;
+  font-size: 50px;
+}
+
+p {
+  line-height: 155px;
+  text-align: left;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+}
+
+div.col {
+  text-align: left;
+}
+
+h1 {
+  font: size 24px;
+  font: weight 100px;
+  line-height: 28px;
+  margin: 0;
+}
+
+#humidity {
+  text-align: left;
+}
+
+#currenttemperature {
+  text-align: left;
+}
+
+#currenttime {
+  text-align: left;
+}
